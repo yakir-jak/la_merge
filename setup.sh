@@ -8,5 +8,5 @@
 #!/bin/bash
 
 date +"%T"
-sleep 60
+sleep 120
 date +"%T"
